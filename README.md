@@ -18,4 +18,4 @@ PassGuard is a lightweight, command-line cybersecurity tool designed for educati
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/glainvarghese03/YOUR-REPO-NAME.git
+   git clone https://github.com/glainvarghese03/PassGuard.git
